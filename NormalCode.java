@@ -29,6 +29,7 @@ public class NormalCode {
 		 
 		 driver.findElement(By.xpath("//input[@id=\"email\"]")).sendKeys(pass);
 		 driver.findElement(By.xpath("//input[@id=\"pass\"]")).sendKeys(user);
+              int a;
 		 
 		 
 		
